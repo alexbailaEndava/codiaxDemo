@@ -16,7 +16,7 @@ os.chdir("..")
 key = getKey()
 os.chdir("q&a")
 
-aboutBot = "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will generate whatever text I think is suitable. If the generated text does not match the prompt, your inpuyt was not clear enough."
+aboutBot = "I am a highly intelligent question answering bot. If you ask me a question that is rooted in truth, I will give you the answer. If you ask me a question that is nonsense, trickery, or has no clear answer, I will generate whatever text I think is suitable. If the generated text does not match the prompt, your input was not clear enough."
 
 # for output printing
 def highlightStages(text, colour):
