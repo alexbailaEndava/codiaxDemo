@@ -1,0 +1,10 @@
+Extract keywords and intention from the following e-mails:
+
+Hi Team! The new joiner will be starting today. Where can we retrieve her password? She already have the email address set up.
+keywords: password, password retrieve
+
+Hi Endava! I'd like to get access to using Forms in MS Teams. Can you please advise on how to do this? Many Thanks!
+keywords: access, Forms, MS Teams
+
+Hi All! Do I need permission on Teams to be able to arrange external meetings? If so could I be granted them please? Thx!
+keywords: permission, Teams, external meetings

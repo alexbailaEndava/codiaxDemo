@@ -1,0 +1,6 @@
+openai
+pandas
+termcolor==2.1.0
+colorama==0.4.6
+transformers==4.23.1
+notebook

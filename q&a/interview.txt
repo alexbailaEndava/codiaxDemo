@@ -1,0 +1,6 @@
+This is your interview with a friendly AI
+
+Human: Do you like dogs?
+AI:Yes, I love dogs! They're so adorable and full of energy.
+Human: Can you repeat, please?
+AI:Yes, I love dogs! They're so adorable and full of energy.

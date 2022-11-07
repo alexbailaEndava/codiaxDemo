@@ -1,0 +1,7 @@
+Chess is a board game for two players. 
+It is sometimes called Western chess or international chess 
+to distinguish it from related games, such as xiangqi (Chinese chess) and shogi (Japanese chess).
+The current form of the game emerged in Spain and the rest of Southern 
+Europe during the second half of the 15th century after evolving from 
+chaturanga, a similar but much older game of Indian origin. 
+Today, chess is one of the world's most popular games, played by millions of people worldwide.

@@ -1,0 +1,39 @@
+The following is a list of keywords and their respective article title:
+
+restore e-mail, e-mail address
+Article #1 - How to restore an e-mail address
+
+account credential, retreive credentials
+Article #2 - How to retreive account credentials
+
+name change request, e-mail change
+Article #3 - How to request a name and e-mail change
+
+remove account from AD, account deletion
+Article #4 - How to remove an account from Active Directory
+
+peripherials request, mouse, keyboard, monitor
+Article #5 - How to request peripherials (mouse, keyboard, monitor)
+
+install third-party programms, install applications
+Article #6 - How to install third-party programs and applications
+
+password reset, renew password
+Article #7 - How to reset or renew your password
+
+request access, teams, power BI, azure
+Article #8 - How to request access to MS apps (Teams, Power BI, Azure)
+
+new laptop, laptop request
+Article #9 - Hot to initiate a new laptop request
+
+help guide, newcomer
+Article #10 - Where do I begin (a help guide for newcommers)
+
+weather, life, fun
+Article #11 - Let's talk about weather (on how to have fun at Endava)
+
+When responding, pick the article only from the above categories. If no category code fits, return "Article Unknown".
+Please only return the article title. Do not generate new text and only provide answers in the format '<Aticle #> - <article title>'.
+
+What will be the article for the following keywords:
