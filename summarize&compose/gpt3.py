@@ -60,6 +60,6 @@ for index in range(1, len(resultRap)):
   else:
     poem = poem + char
 
-highlightStages("\nRap Song:", "green")
+highlightStages("\nLyrics:", "green")
 print(poem)
 
