@@ -9,6 +9,10 @@ A repository containing tools to play with OpenAI's GPT-3's **Davinci** model. I
 * Keywords & intent extraction from user e-mails (**keywords_extractor/**)
 
 ### Prerequisites
+In order to be able to use the functionalities in this repository you need to have 'Python 3.9.0' and the latest 'pip' version installed.
+* python 3.9.0 -> https://www.python.org/downloads/release/python-390/
+* pip -> https://pip.pypa.io/en/stable/installation/
+
 In order to have this scripts working on your computer, you need the following dependencies.
 * Python == 3.9.0
 * openai
