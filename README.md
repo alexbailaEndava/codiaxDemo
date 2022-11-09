@@ -14,7 +14,6 @@ In order to be able to use the functionalities in this repository you need to ha
 * pip -> https://pip.pypa.io/en/stable/installation/
 
 In order to have this scripts working on your computer, you need the following dependencies.
-* Python == 3.9.0
 * openai
 * pandas == 1.5.1
 * notebook
@@ -22,6 +21,17 @@ In order to have this scripts working on your computer, you need the following d
 * colorama == 0.4.6
 * transformers == 4.23.1
 
+This dependencies should be installed in your Python virtual environment, that is created as such:
+```
+python -m venv venv
+```
+After creating the environment, you need to activate it by running the 'activate.bat' script, which is located in the 'venv/Scripts/' folder
+```
+cd venv/Scripts
+activate
+cd..
+cd..
+```
 Use 'pip' to install them in your virtual environment.
 ```
 pip install -r requirements.txt
