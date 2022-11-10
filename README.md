@@ -7,6 +7,7 @@ A repository containing tools to play with OpenAI's GPT-3's **Davinci** model. I
 * Marketing slogan generator (**slogan_generator/**)
 * Semantic Search (**semantic_search/**)
 * Keywords & intent extraction from user e-mails (**keywords_extractor/**)
+Every use case is tested by running the 'gpt3.py' file, or the notebook provided.
 
 ### Prerequisites
 In order to be able to use the functionalities in this repository you need to have 'Python 3.9.0' and the latest 'pip' version installed.
